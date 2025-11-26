@@ -1,2 +1,3 @@
-# project1
-my first git repository
+# Project1
+My first git repository
+Author-Farid Rahmani
